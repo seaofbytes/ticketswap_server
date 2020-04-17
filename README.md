@@ -20,7 +20,7 @@ Ticketswap clone is a website that was created in 4 days as a final assignment f
 - [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)   
 - [bcrypt](https://www.npmjs.com/package/bcrypt) 
 
-## Risk algorithm calculation rules
+## Risk algorithm calculation rules 
 
 * if the ticket is the only ticket of the author, add 10%
 * if the ticket price is lower than the average ticket price for that event, that's a risk
