@@ -7,7 +7,7 @@ npm / yarn start
 
 ## About the project
 Ticketswap clone is a website that was created in 4 days as a final assignment from Codaisseur Coding Academy. Users can register accounts, create / edit new events and tickets and post comments. User can also see each ticket's risk factor ( see below on how it is calculated ).
-
+ 
 # Frontend for the server
  [Frontend](https://github.com/seaofbytes/ticketswap_client)
 
